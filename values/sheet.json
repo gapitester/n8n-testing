@@ -9,11 +9,11 @@
     },
     {
         "Symbols": "CFR",
-        "Values": 1.458
+        "Values": 1.558
     },
     {
         "Symbols": "EREW",
-        "Values": 100.2
+        "Values": 130.2
     },
     {
         "Symbols": "RFRE",
@@ -22,5 +22,13 @@
     {
         "Symbols": "TTR",
         "Values": 453
+    },
+    {
+        "Symbols": "GTD",
+        "Values": 33.908
+    },
+    {
+        "Symbols": "TYH",
+        "Values": 90
     }
 ]
