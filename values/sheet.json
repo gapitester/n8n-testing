@@ -5,15 +5,15 @@
     },
     {
         "Symbols": "EDT",
-        "Values": 12.34
+        "Values": 122.34
     },
     {
         "Symbols": "CFR",
-        "Values": 1.458
+        "Values": 1.558
     },
     {
         "Symbols": "EREW",
-        "Values": 100.2
+        "Values": 130.2
     },
     {
         "Symbols": "RFRE",
@@ -22,5 +22,17 @@
     {
         "Symbols": "TTR",
         "Values": 453
+    },
+    {
+        "Symbols": "GTD",
+        "Values": 33.908
+    },
+    {
+        "Symbols": "TYH",
+        "Values": 90
+    },
+    {
+        "Symbols": "GTS",
+        "Values": 4423.34
     }
 ]
