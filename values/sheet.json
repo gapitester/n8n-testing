@@ -1,26 +1,47 @@
 [
     {
         "Symbols": "GOG",
-        "Values": 234.5
+        "Values": 234.5,
+        "New Stuff": 343
     },
     {
         "Symbols": "EDT",
-        "Values": 12.34
+        "Values": 122.34,
+        "New Stuff": "wewe"
     },
     {
         "Symbols": "CFR",
-        "Values": 1.458
+        "Values": 1.558,
+        "New Stuff": "werwe"
     },
     {
         "Symbols": "EREW",
-        "Values": 100.2
+        "Values": 130.2,
+        "New Stuff": 1
     },
     {
         "Symbols": "RFRE",
-        "Values": 1243.4
+        "Values": 1243.4,
+        "New Stuff": "d"
     },
     {
         "Symbols": "TTR",
-        "Values": 453
+        "Values": 453,
+        "New Stuff": ""
+    },
+    {
+        "Symbols": "GTD",
+        "Values": 33.908,
+        "New Stuff": ""
+    },
+    {
+        "Symbols": "TYH",
+        "Values": 90,
+        "New Stuff": ""
+    },
+    {
+        "Symbols": "GTS",
+        "Values": 4423.34,
+        "New Stuff": ""
     }
 ]
